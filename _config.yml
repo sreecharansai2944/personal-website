@@ -33,7 +33,7 @@ projects:
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  # instagram: m.sreecharansai
+  # instagram: your_username
   # keybase: your_username
   # linkedin: your_username
   # mastodon: your_username
@@ -57,4 +57,4 @@ topics:
     web_url: https://github.com/topics/sass
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
