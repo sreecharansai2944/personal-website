@@ -28,12 +28,12 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+ social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: m.sreecharansai
   # keybase: your_username
   # linkedin: your_username
   # mastodon: your_username
@@ -57,4 +57,4 @@ topics:
     web_url: https://github.com/topics/sass
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
-theme: jekyll-theme-time machine
+theme: jekyll-theme-hacker
